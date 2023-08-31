@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  myaspnetapp:
+    build:
+      context: .
+      dockerfile: Dockerfile  # Specify the path to your Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
