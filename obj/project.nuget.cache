@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2JBvMPys/p447EKpkIjEBslah3ZrknYMl7c8601esbl+p+0F3in8ijvnxASvYS81NgRZUuha3dNopH8w5yc8Q==",
+  "dgSpecHash": "xeYiQFTcQ8XDKtUWh1DHoxSY67NoTqibnIrwLKucBvEA65kHVhSRjzYbeh2P+exCpukh0c5MDoipK8yU1wt+RA==",
   "success": true,
-  "projectFilePath": "/app/MyAspNetApp.csproj",
-  "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.21/microsoft.netcore.app.host.osx-x64.6.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/marcmoxey/Desktop/MyAspNetApp/MyAspNetApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
