@@ -1,0 +1,11 @@
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/MyAspNetApp
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/appsettings.Development.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/appsettings.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/out/appsettings.Development.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/out/appsettings.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/out/MyAspNetApp.deps.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/out/MyAspNetApp.runtimeconfig.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/MyAspNetApp.dll
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/MyAspNetApp.deps.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/MyAspNetApp.runtimeconfig.json
+/Users/marcmoxey/Desktop/MyAspNetApp/bin/Release/net6.0/linux-x64/publish/MyAspNetApp.pdb
