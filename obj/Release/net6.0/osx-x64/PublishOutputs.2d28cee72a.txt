@@ -1,0 +1,7 @@
+/app/out/MyAspNetApp
+/app/out/appsettings.Development.json
+/app/out/appsettings.json
+/app/out/MyAspNetApp.dll
+/app/out/MyAspNetApp.deps.json
+/app/out/MyAspNetApp.runtimeconfig.json
+/app/out/MyAspNetApp.pdb
